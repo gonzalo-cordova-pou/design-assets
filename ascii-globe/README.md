@@ -2,7 +2,7 @@
 
 A React component that renders an interactive, spinning ASCII-art globe on an HTML5 canvas.
 
-![ASCII Globe](https://raw.githubusercontent.com/happyrobot-ai/design-assets/main/ascii-globe/preview.png)
+<img src="./preview.png" width="400" alt="ASCII Globe" />
 
 ## Features
 
